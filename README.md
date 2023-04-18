@@ -1,5 +1,6 @@
 # Machine-Learning-For-DS-Project
 Proposal
+
 Kia Aalaei
 
 Dataset: https://www.kaggle.com/datasets/seymasa/rice-dataset-gonenjasmine
