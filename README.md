@@ -66,5 +66,10 @@ The final feature experiment was the Noisy Indicators, where 2 random features o
 
 All of these feature experiments did well, this is due to the simplicity of the binary classification. The confusion matrices are now shown below comparing all of the models from their base version to all of the feature experimentation.
 
+![image](https://user-images.githubusercontent.com/120366695/233899259-a303de4b-5dd2-4c49-8da0-ed1cc059400d.png)
+
+![image](https://user-images.githubusercontent.com/120366695/233899322-61c503c8-7e47-43d5-9f61-692ff3cce2cb.png)
+
+![image](https://user-images.githubusercontent.com/120366695/233899346-c3cb7c5d-b6bd-413a-8217-95484d7ebb76.png)
 
 
