@@ -80,4 +80,8 @@ For the Linear SVC model, the feature experiment that worked the best was the Pr
 
 ![image](https://user-images.githubusercontent.com/120366695/233900069-7dabc665-d792-4626-8a91-2f3da1873802.png)
 
+For the Logistic Regression, the base version of the model worked the best when comparing to the feature experiments. The matrix confusion gave us values of 37 and 24 wrongly predicted. Below is the confusion matrix alongside a classification report of the base, the accuracy is also 99%.
+
+![image](https://user-images.githubusercontent.com/120366695/233900389-9cf4a34e-1d27-4797-8d9e-30680ebf1be1.png)
+
 
