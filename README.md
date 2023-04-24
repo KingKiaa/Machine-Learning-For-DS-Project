@@ -90,4 +90,4 @@ Last but not least, for the Random Forest model, the polynomial features (2nd an
 
 The recommended model out of any of these can go either to the Preprocessing feature Linear SVC model or the Polynomial features Random Forest model. The final decision as to what is the recommended model has to go to the Polynomial features Random Forest model. The model had the highest training score as well as the least wrongly predicted confusion matrix. 
 
-
+In the future, I would dive deeper into more complex datasets to really test out these feature experiments, but as of now, this was very helpful and insightful.
