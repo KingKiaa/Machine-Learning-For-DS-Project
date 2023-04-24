@@ -74,3 +74,4 @@ All of these feature experiments did well, this is due to the simplicity of the 
 
 From left to right, this is the order of the feature experimentations that match these confusion matrices: Base, 1. Scale Features, 2. Addition of Features, 3. Preprocessing Features, and 4. Noisy Indicators.
 
+I will first compare the matrices model by model, and see which feature experiment yielded the best model, and then I will compare those with the other models, to find an overall best model to use and recommend that one.
