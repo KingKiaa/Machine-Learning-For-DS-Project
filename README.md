@@ -84,4 +84,10 @@ For the Logistic Regression, the base version of the model worked the best when 
 
 ![image](https://user-images.githubusercontent.com/120366695/233900389-9cf4a34e-1d27-4797-8d9e-30680ebf1be1.png)
 
+Last but not least, for the Random Forest model, the polynomial features (2nd and 3rd order) showed the best results. The confusion matrix gave us values of 33 and 25 wrongly predicted, which seems to be the best method and model so far. The confusion matrix and classification report is shown below, the accuracy is 99%.
+
+![image](https://user-images.githubusercontent.com/120366695/233900765-cd3f50d1-45e4-445c-9145-8ff9bfc4e87f.png)
+
+
+
 
