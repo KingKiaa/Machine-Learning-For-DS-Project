@@ -72,4 +72,5 @@ All of these feature experiments did well, this is due to the simplicity of the 
 
 ![image](https://user-images.githubusercontent.com/120366695/233899346-c3cb7c5d-b6bd-413a-8217-95484d7ebb76.png)
 
+From left to right, this is the order of the feature experimentations that match these confusion matrices: Base, 1. Scale Features, 2. Addition of Features, 3. Preprocessing Features, and 4. Noisy Indicators.
 
