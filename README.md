@@ -5,7 +5,7 @@ Kia Aalaei
 
 Dataset: https://www.kaggle.com/datasets/seymasa/rice-dataset-gonenjasmine
 
-I decided to choose this project because I was scrolling through all of the possible datasets to use and this one really stood out to me. I had no idea that there were so many ways to describe and measure a rice, and those were the deciding factors as to what type of rice it was. I have always had a fascination for rice due to my persian heritage, every single food in persian culture includes some sort of rice. The classification of two different types of rice stood out to me in that way. The two different rices were jasmine and gonen.
+I decided to choose this project because I was scrolling through all of the possible datasets to use and this one really stood out to me. I had no idea that there were so many ways to describe and measure a rice, and those were the deciding factors as to what type of rice it was. I have always had a fascination for rice due to my persian heritage, every single food in persian culture includes some sort of rice. The classification of two different types of rice stood out to me in that way. The two different rices were jasmine and gonen. The three models built were Logistic Regression, Linear SVC, and Random Forest. For each of these models, 4 experiments were done including scale features, adding of new features, preprocessing features, and noisy indicators. Below is the actual dataset features.
 
 
 ![image](https://user-images.githubusercontent.com/120366695/232713374-d36d695b-d108-437d-bfc4-538000f02450.png)
